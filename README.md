@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **the grouth of a colaborative empress**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Lautaro/Downloads/Lautaro%20Alcoba%20-%20CV%20-%20Full%20Stack%20Developer.pdf](file:///C:/Users/Lautaro/Downloads/Lautaro%20Alcoba%20-%20CV%20-%20Full%20Stack%20Developer.pdf)
-
 - 📫 How to reach me **lautaroalcoba@hotmail.com.ar**
 
 <h3 align="left">Connect with me:</h3>
